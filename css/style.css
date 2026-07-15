@@ -125,3 +125,24 @@ footer {
     text-align: center;
     padding: 30px;
 }
+
+.faq-item {
+
+    background: white;
+
+    padding: 20px;
+
+    margin-top: 15px;
+
+    border-radius: 10px;
+
+}
+
+
+.faq-item h3 {
+
+    color: #2563eb;
+
+    margin-bottom: 10px;
+
+}
